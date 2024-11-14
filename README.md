@@ -37,7 +37,7 @@ This project allows users to submit car rental details through a web form. After
 
 ## Project Structure
 
-- **index.html** : HTML form.
+- **index.jsp** : HTML form.
 - **CarRentalServlet.java** : Processes form and generates PDF.
 - **WEB-INF/** : Servlet configuration.
 

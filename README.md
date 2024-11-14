@@ -28,7 +28,7 @@ This project allows users to submit car rental details through a web form. After
 ## Running the App
 
 1. Start Apache Tomcat.
-2. Visit http://localhost:8080/carrental-form/index.html in your browser.
+2. Visit http://localhost:8008/CarRentalPDFProject/ in your browser.
 
 ## Usage
 

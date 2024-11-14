@@ -21,7 +21,7 @@ This project allows users to submit car rental details through a web form. After
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/carrental-form.git
+   git clone https://github.com/Abdo0422/CarRentalFormProject.git
 2. Set up Apache Tomcat and deploy the web app.
 3. Add iText library to your project.
 
